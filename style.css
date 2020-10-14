@@ -1,3 +1,34 @@
 body {
-    background-color: rgb(79, 37, 197);
+    background-color: rgb(133, 212, 236);
+}
+.container {
+    height: 100vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h4 {
+    color: rgb(32, 128, 192);
+    margin-left: 50px;
+}
+h2 {
+    color: rgb(32, 128, 192);
+    margin-left: 50px ;
+}
+.box {
+    background-color: rgba(250, 244, 244, 0.993);
+    height: 230px;
+    width: 280px;
+    align-items: center;
+}
+.box1 {
+    margin-left: 10px;
+}
+.box2 {
+    margin-left:50px;
+}
+img {
+    margin-top: 20px;
+    margin-left: 70px;
 }
